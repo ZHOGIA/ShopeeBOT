@@ -13,6 +13,6 @@ BOT Shopee auto checkout flash sale
 4. Atur waktu flash sale
 5. Selesai
 
-## GUNAKAN DENGAN BIJAK
-### Kunjungi https://linktr.ee/zhogia
-### Donasi dong qhaqha https://saweria.co/zhogia
+## GUNAKAN BOT DENGAN BIJAK
+#### Kunjungi https://linktr.ee/zhogia
+#### Donasi dong qhaqha https://saweria.co/zhogia
