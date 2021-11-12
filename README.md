@@ -6,7 +6,7 @@ BOT Shopee auto checkout flash sale
 2. VS Code (bisa gunakan yang lain seperti ATOM, Sublime Text, dll)
 3. Install Mozila Firefox dan pastikan path defaultnya (C:\Program Files\Mozilla Firefox\firefox.exe) 
 
-## Cara menjalankan
+## Cara menjalankan via CMD
 1. Tekan shift + Klik kanan > "Open PowerShell window here"
 2. Ketik "python bot.py"
 3. Masukkan link produk
