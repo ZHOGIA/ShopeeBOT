@@ -13,6 +13,14 @@ BOT Shopee auto checkout flash sale
 4. Atur waktu flash sale
 5. Selesai
 
+## Cara Menjalankan via EXE
+1. Buka file ekstensi .exe ("ShopeeBotAutoCheckout.exe")
+2. Setelah app terbuka, Klik Run Bot
+3. Masukkan link produk
+4. Atur waktu flash sale
+5. Selesai
+
+
 ## GUNAKAN BOT DENGAN BIJAK
 #### Kunjungi https://linktr.ee/zhogia
 
