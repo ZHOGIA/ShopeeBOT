@@ -21,7 +21,6 @@ def Banner() :
     print('╱╱╱╱╱╱╱╱╱╱╰╯╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━━╯')
     print('')
     print('(c) XOGDEV (https://github.com/XOGDEV)')
-    print('(!) Instagram @zhogia')
     print('')
 
 def InputData() :
