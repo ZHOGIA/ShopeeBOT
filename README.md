@@ -15,4 +15,4 @@ BOT Shopee auto checkout flash sale
 
 ## GUNAKAN BOT DENGAN BIJAK
 #### Kunjungi https://linktr.ee/zhogia
-#### Donasi dong qhaqha https://saweria.co/zhogia
+
